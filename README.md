@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # WastePatrol
 =======
 # Authority Portal & WasteApp
